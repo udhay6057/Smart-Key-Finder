@@ -8,7 +8,7 @@ Many times we misplace our keys and go searching for them everywhere in the hous
 
 
 
-## Photos
+## Prototype 
 
 ![App Screenshot](IMG_20220903_094749.jpg)
 
